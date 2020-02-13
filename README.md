@@ -5,7 +5,7 @@ TLDR; for the quick and dirty setup, install your dependencies:
 
 ```
 pip install virtualenv
-virtualenv venv; source venv/bin/activate
+virtualenv venv
 pip install -r requirements.txt
 npm install
 ```
