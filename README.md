@@ -1,5 +1,5 @@
 
-# React + Flask starter kit
+# React + Flask + Mapbox GL / CARTO VL starter kit
 
 TLDR; for the quick and dirty setup, install your dependencies:
 
