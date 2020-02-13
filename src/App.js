@@ -14,8 +14,6 @@ function App() {
     })
   }, [])
 
-  
-
   return (
     <>
       <Map data={dataState} />
